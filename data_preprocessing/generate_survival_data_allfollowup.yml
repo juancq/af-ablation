@@ -1,0 +1,6 @@
+lookback_months: 36
+data: 'data/data_chunks.csv'
+log: 'generate_survival_allfollowup.log'
+start_date: '01APR2002'
+end_date: '31OCT2018'
+min_followup_months: 12
